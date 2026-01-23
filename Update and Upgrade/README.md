@@ -1,6 +1,5 @@
 <!-- PROJECT SHIELDS -->
 ![Repo Size](https://img.shields.io/github/repo-size/John-Valinsky/Linux)
-![License](https://img.shields.io/github/license/John-Valinsky/Linux)
 ![Last Commit](https://img.shields.io/github/last-commit/John-Valinsky/Linux)
 ![Open Issues](https://img.shields.io/github/issues/John-Valinsky/Linux)
 ![Stars](https://img.shields.io/github/stars/John-Valinsky/Linux)
