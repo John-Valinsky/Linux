@@ -46,7 +46,7 @@ Or Create Script Manually
 ```bash
 nano update.sh
 ```
-Script
+## Script
 ```bash
 #!/bin/bash
 
