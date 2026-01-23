@@ -37,7 +37,7 @@ A **simple interactive Bash script** for Debian-based Linux distributions (Ubunt
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/apt-update-script.git
+git clone https://github.com/John-Valinsky/Linux/tree/main/Update_Upgrade
 ```
 ```bash
 cd apt-update-script
