@@ -37,3 +37,9 @@ A **simple interactive Bash script** for Debian-based Linux distributions (Ubunt
 ```bash
 git clone https://github.com/yourusername/apt-update-script.git
 cd apt-update-script
+```
+Or Create Script Manually
+
+```bash
+nano update.sh
+```
