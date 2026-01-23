@@ -1,5 +1,16 @@
 #!/bin/bash
 
+echo -e "\e[1;32m"
+echo "  _   _ ____  ____    _  _____ _____ "
+echo " | | | |  _ \\|  _ \\  / \\|_   _| ____|"
+echo " | | | | |_) | | | |/ _ \\ | | |  _|  "
+echo " | |_| |  __/| |_| / ___ \\| | | |___ "
+echo "  \\___/|_|   |____/_/   \\_\\_| |_____|"
+echo -e "\e[0m"
+
+echo -e "\e[1;34mBy John Valinsky\e[0m"
+echo
+
 sudo apt-get update 
 sudo apt update
 

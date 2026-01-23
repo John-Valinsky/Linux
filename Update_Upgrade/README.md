@@ -66,7 +66,7 @@ read -p "> " q
 if [ "$q" = 'y' ]; then
     apt list --upgradeable
 else
-    echo -e "\n\nHave a nice day"
+    echo -e "\n\nNo Upgradeable Listing for now!"
 fi
 
 echo -e "\nDo you want to Upgrade? (Y/N)"
