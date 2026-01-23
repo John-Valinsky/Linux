@@ -60,7 +60,7 @@ nano update.sh
 sudo apt-get update 
 sudo apt update
 
-echo -e "\n\nList Upgradeables? (y/n)"
+echo -e "\n\nList Upgradeables? (Y/N)"
 read -p "> " q
 
 if [ "$q" = 'y' ]; then
