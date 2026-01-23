@@ -37,16 +37,16 @@ A **simple interactive Bash script** for Debian-based Linux distributions (Ubunt
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/John-Valinsky/Linux/tree/main/Update_Upgrade
+git clone https://github.com/John-Valinsky/Linux/
 ```
 ```bash
-cd apt-update-script
+cd Linux/Update_Upgrade
 ```
 ```bash
-sudo chmod +x update.sh
+sudo chmod +x Update.sh
 ```
 ```bash
-./update.sh
+./Update.sh
 ```
 Or Create Script Manually
 
@@ -69,7 +69,7 @@ else
     echo -e "\n\nHave a nice day"
 fi
 
-echo -e "\nDo you want to Upgrade? (y/n)"
+echo -e "\nDo you want to Upgrade? (Y/N)"
 read -p "> " q2
 
 if [ "$q2" = 'y' ]; then
