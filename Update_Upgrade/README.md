@@ -38,7 +38,15 @@ A **simple interactive Bash script** for Debian-based Linux distributions (Ubunt
 
 ```bash
 git clone https://github.com/yourusername/apt-update-script.git
+```
+```bash
 cd apt-update-script
+```
+```bash
+sudo chmod +x update.sh
+```
+```bash
+./update.sh
 ```
 Or Create Script Manually
 
