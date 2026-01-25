@@ -17,3 +17,6 @@ This script:
 * Enables and starts the AnyDesk service
 
 * Detects Wayland/Xorg session issues
+
+
+# Features
