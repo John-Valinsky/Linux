@@ -52,7 +52,7 @@ sudo chmod +x Update.sh
 ```bash
 ./Update.sh
 ```
-Or Create Script Manually
+## Or Create Script Manually
 
 ```bash
 nano update.sh
