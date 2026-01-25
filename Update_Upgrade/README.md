@@ -35,7 +35,7 @@ A **simple interactive Bash script** for Debian-based Linux distributions (Ubunt
 
 ## Installation
 
-### Clone the Repository
+### Clone the repository
 
 ```bash
 git clone https://github.com/John-Valinsky/Linux/
