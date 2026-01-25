@@ -48,6 +48,7 @@ cd Linux/Update_Upgrade
 ```bash
 sudo chmod +x Update.sh
 ```
+### Execute the script
 ```bash
 ./Update.sh
 ```
