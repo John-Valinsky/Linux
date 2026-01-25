@@ -40,6 +40,7 @@ A **simple interactive Bash script** for Debian-based Linux distributions (Ubunt
 ```bash
 git clone https://github.com/John-Valinsky/Linux/
 ```
+### Change directory to the Repository
 ```bash
 cd Linux/Update_Upgrade
 ```
