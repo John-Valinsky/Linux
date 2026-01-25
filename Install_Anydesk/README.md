@@ -41,3 +41,6 @@ This script:
 * Root or sudo privileges
 
 * Internet connection
+
+
+# Installation
