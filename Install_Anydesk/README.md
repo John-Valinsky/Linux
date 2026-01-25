@@ -36,3 +36,8 @@ This script:
 
 # Requirements
 
+* Kali Linux
+
+* Root or sudo privileges
+
+* Internet connection
