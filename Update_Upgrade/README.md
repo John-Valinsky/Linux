@@ -44,6 +44,7 @@ git clone https://github.com/John-Valinsky/Linux/
 ```bash
 cd Linux/Update_Upgrade
 ```
+### Give permission to execute script
 ```bash
 sudo chmod +x Update.sh
 ```
