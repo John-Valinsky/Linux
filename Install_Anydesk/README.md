@@ -20,3 +20,15 @@ This script:
 
 
 # Features
+
+* Fully automated installation
+
+* Uses official AnyDesk repository
+
+* Enables system service automatically
+
+* Checks service status
+
+* Detects Wayland compatibility issues
+
+* Safe error handling using set -e
