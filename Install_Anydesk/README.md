@@ -4,16 +4,16 @@ A simple automated Bash script to install and configure AnyDesk on Kali Linux sa
 
 This script:
 
-Updates the system
+* Updates the system
 
-Installs required dependencies
+* Installs required dependencies
 
-Adds the official AnyDesk GPG key
+* Adds the official AnyDesk GPG key
 
-Adds the AnyDesk repository
+* Adds the AnyDesk repository
 
-Installs AnyDesk
+* Installs AnyDesk
 
-Enables and starts the AnyDesk service
+* Enables and starts the AnyDesk service
 
-Detects Wayland/Xorg session issues
+* Detects Wayland/Xorg session issues
