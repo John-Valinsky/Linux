@@ -32,3 +32,7 @@ This script:
 * Detects Wayland compatibility issues
 
 * Safe error handling using set -e
+
+
+# Requirements
+
