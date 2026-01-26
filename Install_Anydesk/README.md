@@ -49,3 +49,7 @@ This script:
 ```bash
 git clone https://github.com/John-Valinsky/Linux/
 ```
+### Change directory
+```bash
+cd Install_Anydesk
+```
