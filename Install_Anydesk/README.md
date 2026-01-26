@@ -44,3 +44,8 @@ This script:
 
 
 # Installation
+
+### Clone the repository
+```bash
+git clone https://github.com/John-Valinsky/Linux/
+```
