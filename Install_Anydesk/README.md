@@ -57,3 +57,7 @@ cd Install_Anydesk
 ```bash
 chmod +x Install_Anydesk
 ```
+### Run the script
+```bash
+sudo ./Install_Anydesk
+```
