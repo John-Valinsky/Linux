@@ -53,3 +53,7 @@ git clone https://github.com/John-Valinsky/Linux/
 ```bash
 cd Install_Anydesk
 ```
+### Give execute permission
+```bash
+chmod +x Install_Anydesk
+```
