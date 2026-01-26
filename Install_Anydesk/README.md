@@ -65,7 +65,7 @@ chmod +x Install_Anydesk.sh
 ```
 ### Run the script
 ```bash
-sudo ./Install_Anydesk
+sudo ./Install_Anydesk.sh
 ```
 ### Script
 ```bash
