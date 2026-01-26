@@ -61,7 +61,7 @@ cd Linux/Install_Anydesk
 ```
 ### Give execute permission
 ```bash
-chmod +x Install_Anydesk
+chmod +x Install_Anydesk.sh
 ```
 ### Run the script
 ```bash
