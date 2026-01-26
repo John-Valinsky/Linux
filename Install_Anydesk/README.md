@@ -57,7 +57,7 @@ git clone https://github.com/John-Valinsky/Linux/
 ```
 ### Change directory
 ```bash
-cd /Linux/Install_Anydesk
+cd Linux/Install_Anydesk
 ```
 ### Give execute permission
 ```bash
