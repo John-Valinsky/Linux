@@ -4,6 +4,7 @@
 ![Open Issues](https://img.shields.io/github/issues/John-Valinsky/Linux)
 ![Stars](https://img.shields.io/github/stars/John-Valinsky/Linux)
 
+![Project Banner](Image.png)
 
 # AnyDesk Installer for Kali Linux
 
