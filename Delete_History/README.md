@@ -16,3 +16,11 @@ Useful for:
 # What This Script Does
 
 * Clears the current session’s command history.
+
+* Empties the .zsh_history file.
+
+* Prevents the shell from saving new history.
+
+* Clears the terminal screen.
+
+* Displays a confirmation message.
