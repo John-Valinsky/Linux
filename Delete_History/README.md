@@ -14,3 +14,5 @@ Useful for:
 
 
 # What This Script Does
+
+* Clears the current session’s command history.
