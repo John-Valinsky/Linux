@@ -66,3 +66,7 @@ Run the script:
 * History deletion is irreversible.
 
 * Run only if you fully understand the implications.
+
+
+# Customization
+
