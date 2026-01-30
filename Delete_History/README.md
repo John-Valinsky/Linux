@@ -43,3 +43,6 @@ Prevents the shell from writing any further history.
 clear
 ```
 Clears the terminal screen.
+
+
+# Usage
