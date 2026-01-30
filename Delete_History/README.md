@@ -39,3 +39,7 @@ Overwrites the Zsh history file with an empty file.
 unset HISTFILE
 ```
 Prevents the shell from writing any further history.
+```bash
+clear
+```
+Clears the terminal screen.
