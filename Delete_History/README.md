@@ -51,3 +51,7 @@ Make the script executable:
 ```bash
 chmod +x clear_history.sh
 ```
+Run the script:
+```bash
+./clear_history.sh
+```
