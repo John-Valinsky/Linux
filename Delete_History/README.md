@@ -92,4 +92,8 @@ This script is intended for:
 
 * Digital forensics research
 
-Do not use to hide malicious or illegal activity
+Do not use to hide malicious or illegal activity.
+
+
+# License
+
