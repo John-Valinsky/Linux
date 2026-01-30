@@ -78,3 +78,18 @@ To support Bash:
 ```bash
 ~/.bash_history
 ```
+
+
+# Ethical Use
+
+This script is intended for:
+
+* Personal privacy
+
+* Training labs
+
+* System cleanup
+
+* Digital forensics research
+
+Do not use to hide malicious or illegal activity
