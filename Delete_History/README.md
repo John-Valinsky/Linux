@@ -25,6 +25,20 @@ Useful for:
 
 * Displays a confirmation message.
 
+# Codes:
+```bash
+#!/bin/bash
+
+history -c
+
+> /home/kali/.zsh_history
+
+unset HISTFILE
+
+clear
+echo "Terminal history cleared and .zsh_history file content deleted."
+```
+
 
 # Script Breakdown
 ```bash
