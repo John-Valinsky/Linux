@@ -70,3 +70,11 @@ Run the script:
 
 # Customization
 
+For other users, update the path:
+```bash
+/home/USERNAME/.zsh_history
+```
+To support Bash:
+```bash
+~/.bash_history
+```
