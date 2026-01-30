@@ -55,3 +55,14 @@ Run the script:
 ```bash
 ./clear_history.sh
 ```
+
+
+# Important Notes
+
+* This script is Zsh-specific (.zsh_history).
+
+* Path is hardcoded for the kali user.
+
+* History deletion is irreversible.
+
+* Run only if you fully understand the implications.
