@@ -1,0 +1,2 @@
+# Terminal History Cleaner (Zsh)
+
