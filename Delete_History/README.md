@@ -46,3 +46,8 @@ Clears the terminal screen.
 
 
 # Usage
+
+Make the script executable:
+```bash
+chmod +x clear_history.sh
+```
