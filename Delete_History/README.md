@@ -12,3 +12,5 @@ Useful for:
 
 * Shared or temporary systems.
 
+
+# What This Script Does
