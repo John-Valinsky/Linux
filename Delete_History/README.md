@@ -31,3 +31,11 @@ Useful for:
 history -c
 ```
 Clears the command history of the current shell session.
+```bash
+/home/kali/.zsh_history
+```
+Overwrites the Zsh history file with an empty file.
+```bash
+unset HISTFILE
+```
+Prevents the shell from writing any further history.
