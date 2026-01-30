@@ -24,3 +24,10 @@ Useful for:
 * Clears the terminal screen.
 
 * Displays a confirmation message.
+
+
+# Script Breakdown
+```bash
+history -c
+```
+Clears the command history of the current shell session.
