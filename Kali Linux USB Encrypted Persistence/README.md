@@ -81,3 +81,13 @@ You will be prompted to:
 * Enter the target disk (e.g. /dev/sda2).
 
 * Set and confirm a LUKS passphrase.
+
+Example Disk Input - /dev/sda2
+
+Make sure:
+
+* The device exists.
+
+* It is the correct partition.
+
+* You are okay with it being fully wiped and encrypted.
