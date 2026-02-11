@@ -12,3 +12,6 @@ This is especially useful for live Linux systems (e.g. Tails-like setups or cust
 * If you select the wrong device, you will lose data. 
 
 * Only run this if you fully understand what disk you are encrypting.
+
+
+# What This Script Does
