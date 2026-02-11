@@ -60,3 +60,24 @@ The following tools must be installed:
 * sudo
 
 Most Debian-based systems already include these.
+
+
+# Usage
+
+1 Make the script executable.
+```bash
+chmod +x setup-persistence.sh
+```
+
+2 Run the script
+```bash
+./setup-persistence.sh
+```
+
+You will be prompted to:
+
+* Review available disks.
+
+* Enter the target disk (e.g. /dev/sda2).
+
+* Set and confirm a LUKS passphrase.
