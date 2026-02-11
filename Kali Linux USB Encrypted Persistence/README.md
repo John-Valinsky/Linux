@@ -15,3 +15,7 @@ This is especially useful for live Linux systems (e.g. Tails-like setups or cust
 
 
 # What This Script Does
+
+1 Checks for required system commands.
+
+2 Lists available disks using fdisk.
