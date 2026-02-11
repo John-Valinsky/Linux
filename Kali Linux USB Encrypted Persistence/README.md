@@ -39,3 +39,22 @@ This is especially useful for live Linux systems (e.g. Tails-like setups or cust
 
 # Requirements
 
+The following tools must be installed:
+
+* fdisk
+
+* cryptsetup
+
+* mkfs.ext3
+
+* e2label
+
+* mount
+
+* mkdir
+
+* touch
+
+* vim
+
+* sudo
