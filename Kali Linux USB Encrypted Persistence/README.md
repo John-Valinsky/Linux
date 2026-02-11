@@ -104,3 +104,14 @@ Mounted at
 ```bash
 /mnt/encData
 ```
+
+Contains
+```bash
+persistence.conf
+```
+
+Persistence configuration
+```bash
+/ union
+```
+
