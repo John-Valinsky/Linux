@@ -35,3 +35,7 @@ This is especially useful for live Linux systems (e.g. Tails-like setups or cust
 9  Creates a persistence.conf file.
 
 10 Configures persistence with / union
+
+
+# Requirements
+
