@@ -100,3 +100,7 @@ The encrypted device is mapped as
 ```bash
 /dev/mapper/encData
 ```
+Mounted at
+```bash
+/mnt/encData
+```
