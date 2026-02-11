@@ -58,3 +58,5 @@ The following tools must be installed:
 * vim
 
 * sudo
+
+Most Debian-based systems already include these.
