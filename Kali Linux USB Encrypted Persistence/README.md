@@ -115,3 +115,12 @@ Persistence configuration
 / union
 ```
 
+# Use Cases
+
+* Encrypted persistence for live Linux USBs.
+
+* Secure storage partitions.
+
+* Privacy-focused environments.
+
+* Testing LUKS automation workflows.
