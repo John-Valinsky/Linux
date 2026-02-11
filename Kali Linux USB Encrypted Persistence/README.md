@@ -16,8 +16,22 @@ This is especially useful for live Linux systems (e.g. Tails-like setups or cust
 
 # What This Script Does
 
-1 Checks for required system commands.
+1  Checks for required system commands.
 
-2 Lists available disks using fdisk.
+2  Lists available disks using fdisk.
 
-3 Prompts you to manually choose a disk/partition.
+3  Prompts you to manually choose a disk/partition.
+
+4  Encrypts the partition using LUKS.
+
+5  Opens the encrypted container.
+
+6  Formats it as ext3.
+
+7  Labels it as persistence.
+
+8  Mounts it at /mnt/encData.
+
+9  Creates a persistence.conf file.
+
+10 Configures persistence with / union
