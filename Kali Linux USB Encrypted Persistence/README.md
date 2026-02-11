@@ -124,3 +124,12 @@ Persistence configuration
 * Privacy-focused environments.
 
 * Testing LUKS automation workflows.
+
+
+# Notes
+
+* The script uses ext3 for compatibility with persistence systems.
+
+* The mapper name is hardcoded as encData.
+
+* The mount point is /mnt/encData.
