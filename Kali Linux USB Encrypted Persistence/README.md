@@ -84,7 +84,8 @@ You will be prompted to:
 
 Example Disk Input - /dev/sda2
 
-Make sure:
+
+# Make sure:
 
 * The device exists.
 
