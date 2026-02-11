@@ -92,3 +92,11 @@ Example Disk Input - /dev/sda2
 * It is the correct partition.
 
 * You are okay with it being fully wiped and encrypted.
+
+
+# Result
+
+The encrypted device is mapped as
+```bash
+/dev/mapper/encData
+```
