@@ -1,3 +1,9 @@
+<!-- PROJECT SHIELDS -->
+![Repo Size](https://img.shields.io/github/repo-size/John-Valinsky/Linux)
+![Last Commit](https://img.shields.io/github/last-commit/John-Valinsky/Linux)
+![Open Issues](https://img.shields.io/github/issues/John-Valinsky/Linux)
+![Stars](https://img.shields.io/github/stars/John-Valinsky/Linux)
+
 # Terminal History Cleaner (Zsh)
 
 A small Bash script to clear the current shell history and wipe the .zsh_history file on Kali Linux or any Zsh-based system.
